@@ -1,0 +1,31 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+h1{
+	margin:0;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #ffffff;
+}
+
+h2{
+	font-size: 3em;
+}
+
+p{
+	font-size: 1.8em;
+}
+
+.container{
+	background-color: #117c0f;
+	text-align: center;
+	font-size: 4em;
+
+}
+
+.content{
+	margin-left: 15%;
+	margin-right: 15%;
+}
